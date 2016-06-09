@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">个人云图书馆</string>
+    <string name="action_settings">Settings</string>
+    <string name="other_transition_name">transition_reveal</string>
+    <string name="sign_text">新用户注册</string>
+    <string name="SignIn">注册</string>
+</resources>
